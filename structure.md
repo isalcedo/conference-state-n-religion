@@ -10,4 +10,4 @@ Antes de la noción griega y su filosofía el estado como tal en una definición
 
 Cuando se habla de _violencia_ es necesario aclarar que la violencia en si misma es neutra, no es mala por defecto como tampoco es buena de facto, existe la ejecución legítima de la violencia, por ejemplo: en la defensa de si mismo o del debil. Así, a pesar de ser establecido el estado como la institución que monopoliza el uso de la violencia, existe diferencia entre gobernantes buenos y tiranos.
 
-Los griegos aportaron una nueva noción del Estado. No podemos hablar del Estado y los griegos sin nombrar la que tal vez sea la publicación más importante en torno al tema: _La República_ de Platón
+Los griegos aportaron una nueva noción del Estado. No podemos hablar del Estado y los griegos sin nombrar la que tal vez sea la publicación más importante en torno al tema: _La República_ de **Platón**.
